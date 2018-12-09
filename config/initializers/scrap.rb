@@ -1,0 +1,1 @@
+SCRAPER = Scraper.new(url:"http://quotes.toscrape.com")
